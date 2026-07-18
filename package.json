@@ -4,7 +4,7 @@
   "description": "Code Inspector Backend for Cute Hacker",
   "main": "api/inspect.js",
   "engines": {
-    "node": "18.x"
+    "node": "200.x"
   },
   "dependencies": {}
 }
